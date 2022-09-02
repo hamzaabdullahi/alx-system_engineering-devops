@@ -1,1 +1,1 @@
-this contains all shell basics files
+this contains list command
