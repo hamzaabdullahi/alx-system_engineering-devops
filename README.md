@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+we are symbols and inhabit symbols
