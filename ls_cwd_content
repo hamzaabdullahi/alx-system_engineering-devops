@@ -1,0 +1,26 @@
+total 76
+drwxr-xr-x 6 root root 4096 Sep  6 23:02 .
+drwxr-xr-x 1 root root  285 Sep  2 11:13 ..
+-rwxr--r-- 1 root root   16 Sep  2 17:54 0-current_working_directory
+drwxr-xr-x 2 root root 4096 Sep  2 17:53 0x00-shell_basics
+drwxr-xr-x 2 root root  250 Sep  2 21:50 0x01-shell_permissions
+drwxr-xr-x 2 root root  261 Sep  6 09:10 0x02-shell_redirections
+-rwxr--r-- 1 root root   17 Sep  2 17:54 10-back
+-rwxr--r-- 1 root root   30 Sep  2 17:54 11-lists
+-rwxr--r-- 1 root root   34 Sep  2 17:54 12-file_type
+-rwxr--r-- 1 root root   33 Sep  2 17:54 13-symbolic_link
+-rwxr--r-- 1 root root   29 Sep  2 17:54 14-copy_html
+-rwxr--r-- 1 root root   15 Sep  2 17:54 1-listit
+-rwxr--r-- 1 root root   15 Sep  2 17:54 2-bring_me_home
+-rwxr--r-- 1 root root   18 Sep  2 17:54 3-listfiles
+-rwxr--r-- 1 root root   18 Sep  2 17:54 4-listmorefiles
+-rwxr--r-- 1 root root   19 Sep  2 17:54 5-listfilesdigitonly
+-rwxr--r-- 1 root root   42 Sep  2 17:54 6-firstdirectory
+-rwxr--r-- 1 root root   49 Sep  2 17:54 7-movethatfile
+-rwxr--r-- 1 root root   36 Sep  6 22:59 8-cwd_state
+-rwxr--r-- 1 root root   45 Sep  2 17:54 8-firstdelete
+-rwxr--r-- 1 root root   42 Sep  2 17:54 9-firstdirdeletion
+drwxr-xr-x 8 root root  185 Sep  6 04:54 .git
+-rw-r--r-- 1 root root    0 Sep  6 22:55  ls_cwd_content
+-rw-r--r-- 1 root root    0 Sep  6 23:02 ls_cwd_content
+-rw-r--r-- 1 root root   35 Sep  2 17:54 README.md
